@@ -1,4 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
 
 html, body { height: 100%; }
+.bg-dark{background: linear-gradient(black 50%,grey);}
 body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+nav { border-radius: 15px;max-height:max-content;}
+img.logo{ border-radius: 70%;height: 100px;width: 100px;}
+img.real {object-fit: cover;width: 100%;height: 100%;}
